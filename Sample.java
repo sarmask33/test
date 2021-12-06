@@ -11,7 +11,8 @@ public class Test{
 	}
 	
 	public static void test1(){
-		System.out.println("test1 f1 branch update");
+
+		System.out.println("f2 test1 Feature branch update");
 	}
 	
 	public static void test2(){
